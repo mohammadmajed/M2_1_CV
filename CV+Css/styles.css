@@ -1,0 +1,65 @@
+body {
+
+background-image: url(./Hacking\ 4k\ Mobile\ Wallpapers\ -\ Wallpaper\ Cave\ 153.jpg);
+color: rgb(255, 255, 255);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    margin: 7rem auto;
+    width: 70vw;
+font-family: 'Dancing Script', cursive;
+
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 4rem;
+    border: 11px groove #FFFFFF;
+border-radius: 40px;
+    border-radius: 40px 40px 40px 40px;
+}
+.name{
+    text-align: start;
+  border: solid;
+  font-weight: normal;
+  margin:auto;
+}
+
+
+#mycvnav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+#mycvnav ul li {
+    margin-right: 1rem;
+    font-size: 2rem;
+}
+
+#mycvnav ul li a {
+    text-decoration: none;
+    color:ivory;
+}
+
+#mycvnav ul li a:hover {
+    opacity: .5;
+}
+
+#cvimage {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+
+#cvimage img {
+    order: 1;
+   
+}
+#cvimage h2 {
+    order: 2;
+    font-size: 2.5rem;
+}
